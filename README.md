@@ -2,6 +2,8 @@
 
 
 # Markhor's Surveillance System
+A web Based surveillance system using Streamlit. It can be deployed in different firms/education institute/organzations to keep eye on everyone who enters or leave.
+
 
 This is a quick guide of how to install and run this web-application.
 
