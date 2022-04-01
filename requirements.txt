@@ -1,0 +1,16 @@
+numpy 
+opencv-python
+streamlit
+cmake
+tensorflow
+pandas
+matplotlib
+pickle-mixin
+wheel
+mtcnn
+Pillow
+requests
+scikit-image
+scikit-learn
+imageio
+scipy
